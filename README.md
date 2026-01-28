@@ -1,2 +1,4 @@
-# pi_gateway
-Raspberry Pi 4 home network security gateway — Pi-hole, VPN routing, firewall, and monitoring
+# Raspberry Pi Security Gateway
+
+A step-by-step guide to securing a Raspberry Pi. Each phase is documented in its own file in the `docs/` folder.
+
